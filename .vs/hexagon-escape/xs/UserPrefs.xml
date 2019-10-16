@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{378DB6D1-D468-D14D-334B-B8A061B566C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hexagon.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="25" Column="74" />
+      <File FileName="Assets/Hexagon.cs" Line="10" Column="33" />
+      <File FileName="Assets/Spawner.cs" Line="24" Column="2" />
+      <File FileName="Assets/Rotator.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4bf0a825-1591-4796-9093-d17223a48294" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
